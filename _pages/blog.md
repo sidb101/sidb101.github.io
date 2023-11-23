@@ -1,12 +1,12 @@
 ---
 layout: page
-permalink: /archive/
-title: Posts Archive
+permalink: /blog/
+title: Blog Posts
 ---
 
 
-<div id="archives">
-  <section id="archive">
+<div id="blogs">
+  <section id="blog">
      <h3>Most Recent Posts</h3>
       {%for post in site.posts %}
       {% unless post.next %}
