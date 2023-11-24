@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
 permalink: /about/
+title: About
 ---
 
 <div style="display: flex;">
@@ -43,21 +43,16 @@ permalink: /about/
     </a> 
 </p>
 
+#### Education and Experience
+I'm currently pursuing a Masters degree in Software Engineering from the School of Computer Science, Carnegie Mellon University.
+Before CMU, I was working in India for about 4 years in Software & Data roles at Mu Sigma (2018-2019)
+and Directi (2020-2022).
 
-<div style = "; align-content: left">
-    <h4>Education and Experience</h4>
-    <p style = "">
-    I'm currently pursuing a Masters degree in Software Engineering from the School of Computer Science, Carnegie Mellon University.
-    Before CMU, I was working in India for about 4 years in Software & Data roles at Mu Sigma (2018-2019)
-    and Directi (2020-2022).
-    </p>
-</div>
 
-<div style = "; align-content: left">
-    <h4>Interests</h4>
-    <p> Outside academia and work, I enjoy competitive programming 💻 learning spanish 🇪🇸 
-    sketching 👨🏼‍🎨 chess ♟️ swimming 🌊 and gaming 🕹️ reading (fiction btw!) 📖. I've been told I'm equal-parts skilled on both sides of the brain. 
-    Following the true gamer spirit, here's a radar chart to illustrate </p>
+#### Interests
+Outside academia and work, I enjoy competitive programming 💻 learning spanish 🇪🇸 
+sketching 👨🏼‍🎨 chess ♟️ swimming 🌊 and gaming 🕹️ reading (fiction btw!) 📖. I've 
+been told I'm equal-parts skilled on both sides of the brain. 
+Following the true gamer spirit, here's a radar chart to illustrate
 
-    <p align="center"> <img src="../images/brain-2.jpg" height="80%" width="80%" alt="Sid's 🧠"> </p>
-<div>
+![brain-radar-chart](../images/brain-2.jpg){:style="max-width: 80%;"}
